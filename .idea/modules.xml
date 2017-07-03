@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gif.iml" filepath="$PROJECT_DIR$/.idea/modules/gif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gif_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gif_main.iml" group="gif" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gif_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gif_test.iml" group="gif" />
+    </modules>
+  </component>
+</project>
